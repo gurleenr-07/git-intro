@@ -10,8 +10,11 @@ My name is austen
 I will be taking over from here
 
 Thank you!
+<<<<<<< HEAD
 
 Austen is deleted
 Lincoln here!
 
+
+=======
 
