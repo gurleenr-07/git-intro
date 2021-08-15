@@ -13,8 +13,8 @@ Thank you!
 <<<<<<< HEAD
 
 Austen is deleted
-Lincoln here!
-
+Lincoln here
+<<<<<<< HEAD
 1820-1830
 =======
 
